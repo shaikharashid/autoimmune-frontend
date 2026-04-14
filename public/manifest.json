@@ -1,0 +1,16 @@
+{
+  "name": "ImmunoAI",
+  "short_name": "ImmunoAI",
+  "description": "AI-powered medical report analysis for autoimmune disease detection",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#00e5cc",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
